@@ -1,4 +1,4 @@
-# Facebook Statistisc
+# Facebook Statistics
 This is a simple project to download and analyze all the posts from a Facebook page. 
 
 There's this Facebook page that is wildly popular in Brazil (over 6 million likes, for a page about culture targeting young people? that's something). On the past year or so, the page has received several complaints (in the form of enraged comments) abouthow the page has changed, reposts a lot of stuff, and focuses on more polemic posts (such as sex-related ones).
