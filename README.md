@@ -9,7 +9,7 @@ Fetching all 600k+ posts from a Facebook page through the Facebook Graph API, bu
 
 ![reposts](./FacebookStatistics/DocImages/reposts.png)
 
-# 2 - [Corruption Scandal Analysis](./CorruptionScandalAnalysis)
+# 2 - [Corruption Scandal Investigation - Word cloud](./CorruptionScandalAnalysis)
 
 Using all the published documents of a current investigation called Lava Jato, which is aimed towards a giant political corruption scandal in Brazil. Generating a word cloud.
 
