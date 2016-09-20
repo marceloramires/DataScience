@@ -3,14 +3,14 @@ A repository to hold some data science projects from miscellaneous subjects
 
 Here is what I've got so far:
 
-# 1 - [Facebook Statistics](./FacebookStatistics)
+# 1 - [Facebook Statistics - Catraca Livre](./FacebookStatistics)
 
-Fetching all 600k+ posts from a Facebook page through the Facebook Graph API, building a consolidated json, and plotting some charts with all the data to enable analyzing what has been posted.
+Fetching all 600k+ posts from [Catraca Livre](https://www.facebook.com/CatracaLivre) (a really popular Brazilian page that was being criticized on its posting habits) through the Facebook Graph API, building a consolidated json, and plotting some charts with all the data to enable analyzing what has been posted.
 
 ![reposts](./FacebookStatistics/DocImages/reposts.png)
 
 # 2 - [Corruption Scandal Investigation - Word cloud](./CorruptionScandalAnalysis)
 
-Using all the published documents of a current investigation called Lava Jato, which is aimed towards a giant political corruption scandal in Brazil. Generating a word cloud.
+Using published documents of testimonies and delations from a current brazilian political corruption investigation called [Lava Jato](https://en.wikipedia.org/wiki/Operation_Car_Wash). Generating a word cloud.
 
 ![reposts](./CorruptionScandalAnalysis/DocImages/Wordcloud_firstRun.PNG)
