@@ -11,6 +11,6 @@ Fetching all 600k+ posts from [Catraca Livre](https://www.facebook.com/CatracaLi
 
 # 2 - [Corruption Scandal Investigation - Word cloud](./CorruptionScandalAnalysis)
 
-Using published documents of testimonies and delations from a current brazilian political corruption investigation called [Lava Jato](https://en.wikipedia.org/wiki/Operation_Car_Wash). Generating a word cloud.
+Using published documents of testimonies and delations from a current brazilian political corruption investigation called [Lava Jato](https://en.wikipedia.org/wiki/Operation_Car_Wash). Generating the set of most common words, which were used to create a word cloud.
 
 ![reposts](./CorruptionScandalAnalysis/DocImages/Wordcloud_firstRun.PNG)
